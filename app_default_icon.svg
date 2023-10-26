@@ -1,0 +1,11 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="23.75" height="23.75" x="0.125" y="0.125" rx="4" ry="4" style="fill:#ffffff;stroke:#d8d8d8;opacity:1;stroke-width:0.25"/>
+
+<line x1="1.17157" y1="1.17157" x2="22.828427" y2="22.828427" style="stroke:#d8d8d8;stroke-width:0.2"/>
+<line x1="1.17157" y1="22.828427" x2="22.828427" y2="1.17157" style="stroke:#d8d8d8;stroke-width:0.2"/>
+<rect x="2" y="4" rx="2" ry="2" width="20" height="16" style="fill:#00000000;stroke:#d8d8d8; stroke-width:0.25;opacity:1"/>
+<rect x="4" y="2" rx="2" ry="2" width="16" height="20" style="fill:#00000000;stroke:#d8d8d8; stroke-width:0.25;opacity:1"/>
+<rect x="3" y="3" rx="2" ry="2" width="18" height="18" style="fill:#00000000;stroke:#d8d8d8; stroke-width:0.25;opacity:1"/>
+<circle cx="12" cy="12" r="6" stroke="#d8d8d8" stroke-width="0.45" fill="#00000000"/>
+<circle cx="12" cy="12" r="10" stroke="#d8d8d8" stroke-width="0.45" fill="#00000000"/>
+</svg>
